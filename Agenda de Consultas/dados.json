@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "data": "26/08/2026",
+        "paciente": "Mariana",
+        "peso": 45,
+        "altura": 155
+    },
+    {
+        "id": 2,
+        "data": "28/08/2026",
+        "paciente": "João",
+        "peso": 60,
+        "altura": 170
+    },
+    {
+        "id": 3,
+        "data": "27/08/2026",
+        "paciente": "Bruno",
+        "peso": 90,
+        "altura": 185
+    }
+]

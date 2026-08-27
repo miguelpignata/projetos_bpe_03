@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Santo Paulo",
+        "vitorias": 1,
+        "empate": 10,
+        "derrotas": 155
+    },
+    {
+        "id": 2,
+        "nome": "Paumeira",
+        "vitorias": 0,
+        "empate": 0,
+        "derrotas": 1951
+    },
+    {
+        "id": 1,
+        "nome": "Santo Paulo",
+        "vitorias": 1,
+        "empate": 10,
+        "derrotas": 155
+    }
+]
