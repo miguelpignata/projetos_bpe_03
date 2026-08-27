@@ -6,7 +6,7 @@ Repositório com atividades e projetos desenvolvidos durante as aulas de program
 
 ### Agenda de Consultas
 
-Sistema para cadastro e gerenciamento de consultas.
+* Sistema para cadastro e gerenciamento de consultas.
 
 ### Cadastro de Clubes de Futebol
 
